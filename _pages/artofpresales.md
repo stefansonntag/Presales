@@ -6,7 +6,7 @@ toc_label: "Table of Content"
 toc_icon: "heart"
 ---
 
-## Introduction ##
+## What is Presales? ##
 
 The role of presales falls right in the middle marrying the customer needs to the (provider) company's services or products. This role is especially crucial in these industries because the products and services are often heavily customizable and also because the requirements of different customers are often unique. The presales professional thus understands what the customer needs, develops an initial view of the solution the customer needs, then tailors the product or service of his company to meet what the customer needs, explains (or helps sell) this solution to the customer, helps close the deal or sale and often stays on to ensure that the delivery team or product specialists that follow him provide the intended solution.
 
@@ -24,7 +24,10 @@ The role of presales falls right in the middle marrying the customer needs to th
 + Marketing support for tradeshows, public seminars, webinars etc
 + Helping other staff members to understand the capabilities of the products - this can include Sales and Marketing enablement
 
-What follows is an article written by Jon Onsick back in 2010 which summarizes what Presales is all about. The orginal article can be found <a href=http://www.definethecloud.net/the-art-of-pre-sales/>here</>
+What follows is an article written by Jon Onsick back in 2010 which summarizes what Presales is all about. The orginal article can be found
+<a href="http://www.definethecloud.net/the-art-of-pre-sales/">here</>
+
+## The Art of PreSales ##
 
 On a recent customer call being led by a vendor account manager and engineer I witnessed some key mistakes by the engineer as he presented the technology to the customer.  None of the mistakes were glaring or show stopping but they definitely kept the conversation from having the value that was potentially there.  That conversation got me thinking about the skills and principles that need to be applied to pre-sales engineering and prompted this blog.
 
