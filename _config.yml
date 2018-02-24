@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Presales"
+title                    : "Presales - How to run a technical Sales Organization"
 title_separator          : "-"
 name                     : "Stefan Sonntag"
 description              : "A collection of what is needed to run a successful technical sales organization"
@@ -259,3 +259,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
