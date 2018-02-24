@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "People"
-    url: /year-archive/
+    url: /people/
   - title: "Process"
-    url: /collection-archive/
+    url: /process/
   - title: "Product"
-    url: /sitemap/
+    url: /product/
   - title: "Platform"
-    url: /sitemap/
+    url: /platform/
   - title: "About"
     url: https://www.linkedin.com/in/ssonntag
