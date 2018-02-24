@@ -92,8 +92,8 @@ analytics:
 author:
   name             : "Stefan Sonntag"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Vice President GLobal Presales"
-  location         : "Munich"
+  bio              : "VP Worldwide Presales"
+  location         : "Munich, Germany"
   email            : "stefan@sonntag-online.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
