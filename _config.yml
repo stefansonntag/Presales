@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Presales"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Stefan Sonntag"
+description              : "A collection of what is needed to run a successful technical sales organization"
+url                      : "https://stefansonntag.github.io/Presales/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "Presales" # the subpath of your site, e.g. "/blog"
+repository               : "stefansonntag/Presales" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -68,9 +68,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "ssonntag"
 facebook:
-  username               :
+  username               : "stefansonntag.100"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -90,11 +90,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Stefan Sonntag"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Vice President GLobal Presales"
+  location         : "Munich"
+  email            : "stefan@sonntag-online.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
