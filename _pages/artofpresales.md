@@ -1,12 +1,11 @@
 ---
-title: "The Art of Presales"
+title: "What is Presales?"
 permalink: /theartofpresales/
 toc: true
 toc_label: "Table of Content"
 toc_icon: "heart"
 ---
 
-## What is Presales? ##
 
 The role of presales falls right in the middle marrying the customer needs to the (provider) company's services or products. This role is especially crucial in these industries because the products and services are often heavily customizable and also because the requirements of different customers are often unique. The presales professional thus understands what the customer needs, develops an initial view of the solution the customer needs, then tailors the product or service of his company to meet what the customer needs, explains (or helps sell) this solution to the customer, helps close the deal or sale and often stays on to ensure that the delivery team or product specialists that follow him provide the intended solution.
 
@@ -42,13 +41,11 @@ If your job is post-sales, implementations, managed-services, etc, this may give
 
 ## The 5 rules of PreSales Engineering
 
-
 1. You **are** a member of the sales team
 2. You **are not** a salesperson
 3. You must be **Business Relevant**
 4. You must be **Technically Knowledgeable**
 5. **Know** your audience
-
 
 These are simple rules of thumb that I use to get into the right mindset when engaging with customers in a pre-sales fashion. They aren’t set in stone, all encompassing or agreed upon by teams of experts. They're just tools I use. Let’s start with a quick look into each rule:
 ### 1 - You are a member of the sales team ###
@@ -76,14 +73,14 @@ Note: Before continuing I have to apologize for the fact that I just created one
 
 So what’s the bright IDEA? A pre-sales engineer you need to *identify* customer requirements, *design* a product set or solution to meet those requirements, *evangelize* the proposed solution, and *adjust* the solution as necessary for the customer.
 
-### 3 - You must be business relevant###
+### 3 - You must be business relevant ###
 This is typically another tough thing to do from an engineering standpoint.
 
 Understanding business requirements and applying the technology to those requirements does not come naturally for most engineers but it is vital to success. Great technology alone has no value, the data center landscape is littered with stories of great technology companies that failed because they couldn’t capitalize by making the technology business relevant. The same lesson applies to pre-sales engineering.
 
 To be a great pre-sales engineer you have to understand both business and technology enough to map the technical benefits to actual business requirements. So what if your widget is faster than all other widgets before it, what does that mean to my business, and my job? A great way to begin to understand the high level business requirements and what the executives of the companies you sell into are thinking is to incorporate business books and magazines in to your reading. Next time you’re at the airport magazine rack looking at the latest trade rag grab a copy of ‘The Harvard business Review’ instead.
 
-### 4 - You must be technically knowledgeable###
+### 4 - You must be technically knowledgeable ###
 This part should go without saying but unfortunately is not always adhered to.
 
 It’s way too often I see engineers reading from the slides they present because they don’t know the products or material they are presenting.
@@ -92,14 +89,14 @@ Maintaining an appropriate level of technical knowledge becomes harder and harde
 
 Staying up-to-date is a daunting task but there is a plethora of resources out there for it. Blogs and twitter can be used as a constant stream of the latest and greatest technical information. Add to that formal training and vendor documentation and the tools to be technically relevant are there. The best advice I can offer on staying technically knowledgeable is not being afraid to ask and or say you don’t know. If you need training ask for it, if you need info find someone who knows it and talk to them. As importantly, work to share your expertise with others as it creates a collaborative environment that benefits everyone.
 
-###5 - Know your audience###
+### 5 - Know your audience ###
 This may be the most important of the five rules and boils down to doing your homework and being applicable. Ensure you’ve researched your customer, their requirements, and their environment as much as possible.
 
 Know what their interests and pain points are before walking into a meeting whenever possible.
 
 Knowing your audience also applies during customer meetings. As the customer provides more information it’s important to tailor the information you provide to that customer's interest on the fly. Any technical conversation should be a fluid entity ebbing and flowing with the customer's feedback.
 
-##Practicing the art##
+## Practicing the art ##
 
 Like any other art pre-sales must be practiced. You must study the products and services your company sells, develop your presentation skills, and constantly work on your communication. From my perspective the best way to build all of these skills at once is white boarding. White boards are the greatest tool in a pre-sales engineer's arsenal. They provide a clean canvas on which you can paint the picture of a solution and remain fluid in any given conversation. Unlike slides white board sessions are flexible and can easily stay focused on what the customer wants to hear. I firmly believe that a pre-sales engineer should not discuss any technology they cannot confidently articulate via the whiteboard. You cannot take this concept far enough, I’ve instructed 5 day data center classes 100% on the white board covering LAN, SAN, storage, servers and networking because it was the right fit for the audience. The white board is your friend.
 
@@ -114,6 +111,6 @@ In the diagram, you can see the way the conversation should go with a customer. 
 
 
 
-##Summary##
+## Summary ##
 
 PreSales like any other skill set must be honed and practiced. It doesn’t come overnight and as with anything else, you’re never as good as you can be. Build a style and methodology that work for you and don’t be afraid to change or modify them as you find areas for improvement. The better you get at the more value your giving your customer, team, and company.
