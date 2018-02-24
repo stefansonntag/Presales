@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Stefan Sonntag"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/stefan.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "VP Worldwide Presales"
   location         : "Munich, Germany"
   email            : "stefan@sonntag-online.com"
