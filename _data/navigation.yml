@@ -2,11 +2,13 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://www.linkedin.com/in/ssonntag
-  - title: "Sample Posts"
+  - title: "People"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Process"
     url: /collection-archive/
-  - title: "Sitemap"
+  - title: "Product"
     url: /sitemap/
+  - title: "Platform"
+    url: /sitemap/
+  - title: "About"
+    url: https://www.linkedin.com/in/ssonntag  
