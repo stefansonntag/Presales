@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "People"
     url: /year-archive/
   - title: "Process"
@@ -11,4 +9,4 @@ main:
   - title: "Platform"
     url: /sitemap/
   - title: "About"
-    url: https://www.linkedin.com/in/ssonntag  
+    url: https://www.linkedin.com/in/ssonntag
