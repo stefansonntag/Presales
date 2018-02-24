@@ -1,6 +1,9 @@
 ---
 title: "The Art of Presales"
 permalink: /theartofpresales/
+toc: true
+toc_label: "Table of Content"
+toc_icon: "heart"
 ---
 
 ## Introduction ##
