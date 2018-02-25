@@ -4,28 +4,28 @@ permalink: /process1/
 ---
 <ol>
   <li>Business Planning
-  <ol>
-    <li>Territory Plan
-      <ol>
-        <li> Webinar / Campaign Schedule
-          <ul><li>Creation / Reuse of Assets</li></ul>
-        <li>Partner Coverage
-        <ul><li>Enablement Activities</li>
-      </ol>
-    <li>Account Plan (link)
-      <ul>
-        <li>Visit Frequency
-        <li>Technical Environment
-        <li>License Usage
-        <li>Competition
-        <li>Sphere of Influence
-        <li>Customer Success Issues
-        <li>Targeted Marketing Plan (link)
-      </ul>
-    <li>Marketing Plan
-      <ul><li>Resource Plan</li></ul>
-  </ol>
-  <li<>Engagement
+    <ol>
+      <li>Territory Plan
+        <ol>
+          <li> Webinar / Campaign Schedule
+            <ul><li>Creation / Reuse of Assets</li></ul>
+          <li>Partner Coverage
+            <ul><li>Enablement Activities</li></ul>
+        </ol>
+      <li>Account Plan (link)
+        <ul>
+          <li>Visit Frequency
+          <li>Technical Environment
+          <li>License Usage
+          <li>Competition
+          <li>Sphere of Influence
+          <li>Customer Success Issues
+          <li>Targeted Marketing Plan (link)
+        </ul>
+      <li>Marketing Plan
+        <ul><li>Resource Plan</li></ul>
+    </ol>
+  <li>Engagement
   Direct Sales
     Request
     Qualification
