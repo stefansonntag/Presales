@@ -51,6 +51,9 @@ permalink: /process1/
                     10. Legal Matters (IP, Risk etc)
                     11. Trial Licenses
                 3. ROI Study
+            4. Post Mortem
+        4. Customer Development
+    2. Indirect Sales
 3. List item three
 4. List item four
 
