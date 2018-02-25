@@ -1,12 +1,14 @@
 # main links
 main:
+  - title: "Presales"
+    url: /presales/
   - title: "People"
     url: /people/
   - title: "Process"
-    url: /theartofpresales/
-  - title: "Product"
-    url: /product/
+    url: /process/
   - title: "Platform"
     url: /platform/
+  - title: "Product"
+    url: /product/  
   - title: "About"
     url: https://www.linkedin.com/in/ssonntag

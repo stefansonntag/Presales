@@ -1,6 +1,6 @@
 ---
 title: "What is Presales?"
-permalink: /theartofpresales/
+permalink: /presales/
 toc: true
 toc_label: "Table of Content"
 toc_icon: "heart"
