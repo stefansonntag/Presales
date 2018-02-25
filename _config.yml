@@ -95,15 +95,15 @@ author:
   bio              : "VP Worldwide Presales"
   location         : "Munich, Germany"
   email            : "stefan@sonntag-online.com"
-  uri              : "http://www.thebaseline.tech"
-  home             : "http://www.thebaseline.tech" # null (default), "absolute or relative url to link to author home"
+  uri              : "http://thebaseline.tech"
+  home             : "http://thebaseline.tech" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
