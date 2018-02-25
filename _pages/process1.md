@@ -9,13 +9,13 @@ permalink: /process1/
         2. Partner Coverage
             1. Enablement Activities
     2. Account Plan
-        1. Visit Frequency
-        2. Technical Environment
-        3. License Usage / Consumption
-        4. Competition
-        5. Sphere of Influence
-        6. Customer Success Issues
-        7. Targeted Marketing Plan
+        * Visit Frequency
+        * Technical Environment
+        * License Usage / Consumption
+        * Competition
+        * Sphere of Influence
+        * Customer Success Issues
+        * Targeted Marketing Plan
     3. Marketing Plan
         1. Resource Plan
 2. Engagement
