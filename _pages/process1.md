@@ -2,7 +2,7 @@
 title: "Process"
 permalink: /process1/
 ---
-Business Planning
+1. Business Planning
   Territory Plan
     Webinar / Campaign Schedule
       Creation / Reuse of Assets
@@ -18,7 +18,7 @@ Business Planning
     Targeted Marketing Plan (link)
   Marketing Plan
     Resource Plan
-Engagement
+2. Engagement
   Direct Sales
     Request
     Qualification
@@ -68,15 +68,15 @@ Engagement
   Professional Services
     Positioning
     Handover (link)
-Innovation (link)
-Reporting (link)
+3. Innovation (link)
+4. Reporting (link)
   Score Card
   Finance
   Workforce
     Hires and Leavers
     Anniversaries
     Recruitment
-Governance (link)
+5. Governance (link)
   1:1
   Staff Meetings
   Team Calls
@@ -84,6 +84,6 @@ Governance (link)
   Newsletters
   Kickoff
   Meeting Schedule
-Asset Creation and Sharing (link)
-Cost Management
+6. Asset Creation and Sharing (link)
+7. Cost Management
   Forecast
