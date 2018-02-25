@@ -23,7 +23,7 @@ The role of presales falls right in the middle marrying the customer needs to th
 + Helping other staff members to understand the capabilities of the products - this can include Sales and Marketing enablement
 
 What follows is an article written by Jon Onsick back in 2010 which summarizes what Presales is all about. The orginal article can be found
-<a href="http://www.definethecloud.net/the-art-of-pre-sales/">here</>
+<a href="http://www.definethecloud.net/the-art-of-pre-sales/">here</a>
 
 ## The Art of PreSales ##
 
@@ -50,7 +50,7 @@ These are simple rules of thumb that I use to get into the right mindset when en
 ### 1. You are a member of the sales team ###
 This one is key to remember because for a lot of very technical people that move into pre-sales roles this is tough to grasp. There is not always love, drum circles, group hugs and special brownies between sales and engineering and some engineers tend to resent sales people for various reasons (and vice versa.) Whether or not there is resentment it’s natural to be proud of your technical skill set and thinking of yourself in a sales perspective may not be something you're comfortable with.
 
-*Get over it or get out of pre-sales.* As a pre-sales engineer it’s your job to act as a member of the sales team assisting account managers in the sale of the products and services your company provides. You are there to drive the sales that provide the blanket of revenue the rest of the company rises and sleeps under.
+** Get over it or get out of pre-sales.** As a pre-sales engineer it’s your job to act as a member of the sales team assisting account managers in the sale of the products and services your company provides. You are there to drive the sales that provide the blanket of revenue the rest of the company rises and sleeps under.
 
 ### 2. You are not a salesperson ###
  Now that you’ve swallowed the fact that you’re a member of the sales team it’s time to enforce the fact that you are not an account manager/sales representative etc. This is vitally important, in fact if you can apply only the first two rules you’ll be significantly better than some of your peers. I’m going to use the term AM (Account Manager) for sales from here on out, allow this to encompass any non technical sales title that fits your role. An AM and a pre-sales SE are completely different roles with a common goal. An AM is tightly tied to a target sales number and most likely spends hours on con calls talking about that number and why they are or aren’t at that number. An AM's core job is to maintain customer relationships and sell what the company sells. A pre-sales engineers job on the other hand is a totally different beast. While you do need to support your AM it’s your job to make sure that the product, service or solution you sell is *relevant, effective, right-fit, and complete for the particular customer.*
