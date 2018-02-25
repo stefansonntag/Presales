@@ -76,6 +76,8 @@ Note: Before continuing I have to apologize for the fact that I just created one
 So what’s the bright IDEA? A pre-sales engineer you need to *identify* customer requirements, *design* a product set or solution to meet those requirements, *evangelize* the proposed solution, and *adjust* the solution as necessary for the customer.
 
 ### 3. You must be business relevant ###
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/business200.jpg){: .align-left}
+
 This is typically another tough thing to do from an engineering standpoint.
 
 Understanding business requirements and applying the technology to those requirements does not come naturally for most engineers but it is vital to success. Great technology alone has no value, the data center landscape is littered with stories of great technology companies that failed because they couldn’t capitalize by making the technology business relevant. The same lesson applies to pre-sales engineering.
@@ -83,6 +85,7 @@ Understanding business requirements and applying the technology to those require
 To be a great pre-sales engineer you have to understand both business and technology enough to map the technical benefits to actual business requirements. So what if your widget is faster than all other widgets before it, what does that mean to my business, and my job? A great way to begin to understand the high level business requirements and what the executives of the companies you sell into are thinking is to incorporate business books and magazines in to your reading. Next time you’re at the airport magazine rack looking at the latest trade rag grab a copy of ‘The Harvard business Review’ instead.
 
 ### 4. You must be technically knowledgeable ###
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/tech200.jpg){: .align-right}
 This part should go without saying but unfortunately is not always adhered to.
 
 It’s way too often I see engineers reading from the slides they present because they don’t know the products or material they are presenting.
@@ -92,6 +95,7 @@ Maintaining an appropriate level of technical knowledge becomes harder and harde
 Staying up-to-date is a daunting task but there is a plethora of resources out there for it. Blogs and twitter can be used as a constant stream of the latest and greatest technical information. Add to that formal training and vendor documentation and the tools to be technically relevant are there. The best advice I can offer on staying technically knowledgeable is not being afraid to ask and or say you don’t know. If you need training ask for it, if you need info find someone who knows it and talk to them. As importantly, work to share your expertise with others as it creates a collaborative environment that benefits everyone.
 
 ### 5. Know your audience ###
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/audience200.jpg){: .align-left}
 This may be the most important of the five rules and boils down to doing your homework and being applicable. Ensure you’ve researched your customer, their requirements, and their environment as much as possible.
 
 Know what their interests and pain points are before walking into a meeting whenever possible.
