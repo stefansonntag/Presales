@@ -50,6 +50,7 @@ If your job is post-sales, implementations, managed-services, etc, this may give
 These are simple rules of thumb that I use to get into the right mindset when engaging with customers in a pre-sales fashion. They aren’t set in stone, all encompassing or agreed upon by teams of experts. They're just tools I use. Let’s start with a quick look into each rule:
 ### 1. You are a member of the sales team ###
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/team.jpg)
+
 This one is key to remember because for a lot of very technical people that move into pre-sales roles this is tough to grasp. There is not always love, drum circles, group hugs and special brownies between sales and engineering and some engineers tend to resent sales people for various reasons (and vice versa.) Whether or not there is resentment it’s natural to be proud of your technical skill set and thinking of yourself in a sales perspective may not be something you're comfortable with.
 
 **Get over it or get out of pre-sales.** As a pre-sales engineer it’s your job to act as a member of the sales team assisting account managers in the sale of the products and services your company provides. You are there to drive the sales that provide the blanket of revenue the rest of the company rises and sleeps under.
@@ -87,6 +88,7 @@ To be a great pre-sales engineer you have to understand both business and techno
 
 ### 4. You must be technically knowledgeable ###
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/tech.jpg)
+
 This part should go without saying but unfortunately is not always adhered to.
 
 It’s way too often I see engineers reading from the slides they present because they don’t know the products or material they are presenting.
@@ -97,6 +99,7 @@ Staying up-to-date is a daunting task but there is a plethora of resources out t
 
 ### 5. Know your audience ###
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/audience.jpg)
+
 This may be the most important of the five rules and boils down to doing your homework and being applicable. Ensure you’ve researched your customer, their requirements, and their environment as much as possible.
 
 Know what their interests and pain points are before walking into a meeting whenever possible.
