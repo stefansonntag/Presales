@@ -11,7 +11,7 @@ permalink: /process1/
             <ul><li>Creation / Reuse of Assets</li>
           <li>Partner Coverage
             <ul><li>Enablement Activities</li>
-        </ul>
+        </ul></ul></ul>
       <li>Account Plan (link)
         <ul>
           <li>Visit Frequency
