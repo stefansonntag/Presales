@@ -7,9 +7,9 @@ toc_icon: "heart"
 ---
 
 
-The role of presales falls right in the middle marrying the customer needs to the (provider) company's services or products. This role is especially crucial in these industries because the products and services are often heavily customizable and also because the requirements of different customers are often unique. The presales professional thus understands what the customer needs, develops an initial view of the solution the customer needs, then tailors the product or service of his company to meet what the customer needs, explains (or helps sell) this solution to the customer, helps close the deal or sale and often stays on to ensure that the delivery team or product specialists that follow him provide the intended solution.
+The role of presales falls right in the middle marrying the customer needs to the (provider) company's services or products. This role is especially crucial in the software industry because the products and services are often heavily customizable and also because the requirements of different customers are often unique. The presales professional thus understands what the customer needs, develops an initial view of the solution the customer needs, then tailors the product or service of his company to meet what the customer needs, explains (or helps sell) this solution to the customer, helps close the deal or sale and often stays on to ensure that the delivery team or product specialists that follow him provide the intended solution.
 
- Activities that happen prior to the software purchase and / or expansion of a deal involve:
+ Typical activities that happen prior to the software purchase and / or expansion of a deal involve:
 
 + Account planning meetings with Sales Reps
 + Demonstration of software
@@ -19,7 +19,7 @@ The role of presales falls right in the middle marrying the customer needs to th
 + Proof of Concept
 + Ongoing account focused activities to ensure customer success
 + Assisting with tender responses
-+ Anything else the customer reasonably needs to be convinced that QlikView is the solution for them.
++ Anything else the customer reasonably needs to be convinced that your product is the right solution for them.
 + Marketing support for tradeshows, public seminars, webinars etc
 + Helping other staff members to understand the capabilities of the products - this can include Sales and Marketing enablement
 

@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : "Stefan Sonntag"
 description              : "A collection of what is needed to run a successful technical sales organization"
 url                      : "https://stefansonntag.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "Presales" # the subpath of your site, e.g. "/blog"
-repository               : "stefansonntag/Presales" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "baseline" # the subpath of your site, e.g. "/blog"
+repository               : "stefansonntag/baseline" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
