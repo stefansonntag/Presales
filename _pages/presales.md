@@ -103,7 +103,10 @@ If you don’t have a white board in your home get one. Use it to hone your skil
 
 As you white board in front of customers think of painting a picture for them, start with broad strokes outlining the technology and add detail to areas that the customer shows interest in. Drill down into only the specifics that are relevant to that customer, this is where knowing your audience is key.
 
-![alt text](https://thebaseline.tech/assets/images/conversation_flow.png "The Presales Conversation Flow")
+<figure>
+	<img src="/assets/images/conversation_flow.png">
+	<figcaption>The Presales Conversation Flow</figcaption>
+</figure>
 
 
 In the diagram, you can see the way the conversation should go with a customer. You begin at the top level big picture and drill down into only the points that the customer shows an interest in or are applicable to their data center and job role. Don’t ever feel the need to discuss every feature of a product or solution because they are not all relevant to every customer. For instance a server admin probably doesn’t care how fast switching occurs but network and application teams probably do. Maybe your product can help save a ton of cost, great but that’s probably not very relevant to the administrators who aren’t responsible for budget. Always ensure you’re maintaining relevance to the audience and the business.
