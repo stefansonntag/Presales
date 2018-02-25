@@ -4,14 +4,14 @@ permalink: /process1/
 ---
 <ol>
   <li>Business Planning
-    <ol>
+    <ul>
       <li>Territory Plan
-        <ol>
+        <ul>
           <li> Webinar / Campaign Schedule
-            <ul><li>Creation / Reuse of Assets</li></ul>
+            <ul><li>Creation / Reuse of Assets</li>
           <li>Partner Coverage
-            <ul><li>Enablement Activities</li></ul>
-        </ol>
+            <ul><li>Enablement Activities</li>
+        </ul>
       <li>Account Plan (link)
         <ul>
           <li>Visit Frequency
@@ -24,7 +24,7 @@ permalink: /process1/
         </ul>
       <li>Marketing Plan
         <ul><li>Resource Plan</li></ul>
-    </ol>
+    </ul>
   <li>Engagement
   Direct Sales
     Request
