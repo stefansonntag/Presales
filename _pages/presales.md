@@ -50,12 +50,15 @@ If your job is post-sales, implementations, managed-services, etc, this may give
 These are simple rules of thumb that I use to get into the right mindset when engaging with customers in a pre-sales fashion. They aren’t set in stone, all encompassing or agreed upon by teams of experts. They're just tools I use. Let’s start with a quick look into each rule:
 ### 1. You are a member of the sales team ###
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/hands300_200.jpg){: .align-left}
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/team.jpg)
 This one is key to remember because for a lot of very technical people that move into pre-sales roles this is tough to grasp. There is not always love, drum circles, group hugs and special brownies between sales and engineering and some engineers tend to resent sales people for various reasons (and vice versa.) Whether or not there is resentment it’s natural to be proud of your technical skill set and thinking of yourself in a sales perspective may not be something you're comfortable with.
 
 **Get over it or get out of pre-sales.** As a pre-sales engineer it’s your job to act as a member of the sales team assisting account managers in the sale of the products and services your company provides. You are there to drive the sales that provide the blanket of revenue the rest of the company rises and sleeps under.
 
 ### 2. You are not a salesperson ###
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/sales300_200.jpg){: .align-right}
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/sales.jpg)
+
  Now that you’ve swallowed the fact that you’re a member of the sales team it’s time to enforce the fact that you are not an account manager/sales representative etc. This is vitally important, in fact if you can apply only the first two rules you’ll be significantly better than some of your peers. I’m going to use the term AM (Account Manager) for sales from here on out, allow this to encompass any non technical sales title that fits your role. An AM and a pre-sales SE are completely different roles with a common goal. An AM is tightly tied to a target sales number and most likely spends hours on con calls talking about that number and why they are or aren’t at that number. An AM's core job is to maintain customer relationships and sell what the company sells. A pre-sales engineers job on the other hand is a totally different beast. While you do need to support your AM it’s your job to make sure that the product, service or solution you sell is *relevant, effective, right-fit, and complete for the particular customer.*
 
 In the reseller world we talk about becoming a ‘Trusted Advisor’ but that ‘Trusted Advisor’ is typically a two person team consisting of an AM and Engineer who know the customer well, understand their environment, and maintain a mutually beneficial relationship.
@@ -77,6 +80,7 @@ So what’s the bright IDEA? A pre-sales engineer you need to *identify* custome
 
 ### 3. You must be business relevant ###
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/business300_200.jpg){: .align-left}
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/business.jpg)
 
 This is typically another tough thing to do from an engineering standpoint.
 
@@ -86,6 +90,7 @@ To be a great pre-sales engineer you have to understand both business and techno
 
 ### 4. You must be technically knowledgeable ###
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/tech300_200.jpg){: .align-right}
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/tech.jpg)
 This part should go without saying but unfortunately is not always adhered to.
 
 It’s way too often I see engineers reading from the slides they present because they don’t know the products or material they are presenting.
@@ -96,6 +101,7 @@ Staying up-to-date is a daunting task but there is a plethora of resources out t
 
 ### 5. Know your audience ###
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/audience300_200.jpg){: .align-left}
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/audience.jpg)
 This may be the most important of the five rules and boils down to doing your homework and being applicable. Ensure you’ve researched your customer, their requirements, and their environment as much as possible.
 
 Know what their interests and pain points are before walking into a meeting whenever possible.
