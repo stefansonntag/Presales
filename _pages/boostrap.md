@@ -5,25 +5,25 @@ permalink: /bootstrap/
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
-			<div class="tabbable" id="tabs-101118">
-				<ul class="nav nav-tabs">
-					<li class="active">
-						<a href="#panel-767859" data-toggle="tab">Section 1</a>
-					</li>
-					<li>
-						<a href="#panel-330281" data-toggle="tab">Section 2</a>
-					</li>
-				</ul>
-				<div class="tab-content">
-					<div class="tab-pane active" id="panel-767859">
-						<p>
-							I'm in Section 1.
-						</p>
+			<div class="panel-group" id="panel-493892">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						 <a class="panel-title" data-toggle="collapse" data-parent="#panel-493892" href="#panel-element-183799">Collapsible Group Item #1</a>
 					</div>
-					<div class="tab-pane" id="panel-330281">
-						<p>
-							Howdy, I'm in Section 2.
-						</p>
+					<div id="panel-element-183799" class="panel-collapse collapse in">
+						<div class="panel-body">
+							Anim pariatur cliche...
+						</div>
+					</div>
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						 <a class="panel-title collapsed" data-toggle="collapse" data-parent="#panel-493892" href="#panel-element-41431">Collapsible Group Item #2</a>
+					</div>
+					<div id="panel-element-41431" class="panel-collapse collapse">
+						<div class="panel-body">
+							Anim pariatur cliche...
+						</div>
 					</div>
 				</div>
 			</div>
