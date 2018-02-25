@@ -23,7 +23,7 @@ The role of presales falls right in the middle marrying the customer needs to th
 + Marketing support for tradeshows, public seminars, webinars etc
 + Helping other staff members to understand the capabilities of the products - this can include Sales and Marketing enablement
 
-What follows is an article written by Jon Onsick back in 2010 which summarizes what Presales is all about. The orginal article can be found
+What follows is an article written by Jon Onsick back in 2010 which summarizes what Presales is all about. The original article can be found
 <a href="http://www.definethecloud.net/the-art-of-pre-sales/">here</a>
 
 ## The Art of PreSales ##
@@ -49,7 +49,7 @@ If your job is post-sales, implementations, managed-services, etc, this may give
 
 These are simple rules of thumb that I use to get into the right mindset when engaging with customers in a pre-sales fashion. They aren’t set in stone, all encompassing or agreed upon by teams of experts. They're just tools I use. Let’s start with a quick look into each rule:
 ### 1. You are a member of the sales team ###
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/150x150.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/coffee_notebook_150.jpg){: .align-left}
 This one is key to remember because for a lot of very technical people that move into pre-sales roles this is tough to grasp. There is not always love, drum circles, group hugs and special brownies between sales and engineering and some engineers tend to resent sales people for various reasons (and vice versa.) Whether or not there is resentment it’s natural to be proud of your technical skill set and thinking of yourself in a sales perspective may not be something you're comfortable with.
 
 ** Get over it or get out of pre-sales.** As a pre-sales engineer it’s your job to act as a member of the sales team assisting account managers in the sale of the products and services your company provides. You are there to drive the sales that provide the blanket of revenue the rest of the company rises and sleeps under.
