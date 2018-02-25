@@ -3,12 +3,12 @@ title: "Process"
 permalink: /process1/
 ---
 1. Business Planning
-  Territory Plan
+  1.1 Territory Plan
     Webinar / Campaign Schedule
       Creation / Reuse of Assets
     Partner Coverage
       Enablement Activities
-  Account Plan (link)
+  1.2 Account Plan (link)
     Visit Frequency
     Technical Environment
     License Usage
@@ -16,7 +16,7 @@ permalink: /process1/
     Sphere of Influence
     Customer Success Issues
     Targeted Marketing Plan (link)
-  Marketing Plan
+  1.3 Marketing Plan
     Resource Plan
 2. Engagement
   Direct Sales
