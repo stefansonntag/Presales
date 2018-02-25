@@ -6,12 +6,12 @@ permalink: /process1/
   <li>Business Planning
   <ol>
     <li>Territory Plan
-      <ul>
+      <ol>
         <li> Webinar / Campaign Schedule
           <ul><li>Creation / Reuse of Assets</li></ul>
         <li>Partner Coverage
         <ul><li>Enablement Activities</li></ul>
-      </ul>
+      </ol>
     <li>Account Plan (link)
       <ul>
         <li>Visit Frequency
