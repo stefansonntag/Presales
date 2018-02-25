@@ -2,16 +2,16 @@
 title: "Process"
 permalink: /process1/
 ---
-<ol>
+<ul>
   <li>Business Planning
     <ul>
       <li>Territory Plan
         <ul>
           <li> Webinar / Campaign Schedule
-            <ul><li>Creation / Reuse of Assets</li>
+            <ul><li>Creation / Reuse of Assets</li></ul>
           <li>Partner Coverage
-            <ul><li>Enablement Activities</li>
-        </ul></ul></ul>
+            <ul><li>Enablement Activities</li></ul>
+        </ul>
       <li>Account Plan (link)
         <ul>
           <li>Visit Frequency
@@ -26,55 +26,59 @@ permalink: /process1/
         <ul><li>Resource Plan</li></ul>
     </ul>
   <li>Engagement
-  Direct Sales
-    Request
-    Qualification
-    Opportunity
-      Close Plan
-      RFI
-        Qualification Go/No-Go
-        Coordinator
-        Golden Answers (link)
-        Theming / Packaging
-        Collection (link)
-      Proof of Value
-        Demo
-          Discovery
-          Reharsal
-          Delivery
-            Remote
-            Onsite
-        Topical Workshop
-        POC
+    <ul>
+      <li>Direct Sales
+        <ul>
+          <li>Request
+          <li>Qualification
+          <li>Opportunity
+        Close Plan
+        RFI
           Qualification Go/No-Go
-          Planning
-          Requirements
-          Scope
-          Architecture
-          Dependencies
-          Timeline
-          Deliverables
-          Success Criteria
-          Legal Matters (IP, Risk etc)
-          Trial Licenses
-        ROI Study
-        Post Mortem
-    Customer Development (link)
-  Indirect Sales
-    Enablement
-      1:1
-      1: M
-      Recording & Reuse
-    Opportunity Support
-      Shadowing
-      Review Proof of Value (link)
-      RFI (link)
-  Marketing
-  Customer Success
-    Customer Success Plan (link)
-  Professional Services
+          Coordinator
+          Golden Answers (link)
+          Theming / Packaging
+          Collection (link)
+        Proof of Value
+          Demo
+            Discovery
+            Reharsal
+            Delivery
+              Remote
+              Onsite
+          Topical Workshop
+          POC
+            Qualification Go/No-Go
+            Planning
+            Requirements
+            Scope
+            Architecture
+            Dependencies
+            Timeline
+            Deliverables
+            Success Criteria
+            Legal Matters (IP, Risk etc)
+            Trial Licenses
+          ROI Study
+          Post Mortem
+          <li>Customer Development (link)
+        </ul>
+      <li>Indirect Sales
+      Enablement
+        1:1
+        1: M
+        Recording & Reuse
+      Opportunity Support
+        Shadowing
+        Review Proof of Value (link)
+        RFI (link)
+      <li>Marketing
+      <li>Customer Success
+      Customer Success Plan (link)
+      <li>Professional Services
     Positioning
     Handover (link)
+    </ul>
   <li>Innovation (link)
   <li>Reporting (link)
   Score Card
@@ -94,4 +98,4 @@ permalink: /process1/
   <li>Asset Creation and Sharing (link)
   <li>Cost Management
   Forecast
-</ol>
+</ul>
