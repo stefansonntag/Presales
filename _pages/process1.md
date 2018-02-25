@@ -2,13 +2,15 @@
 title: "Process"
 permalink: /process1/
 ---
-1. Business Planning
-..1.1 Territory Plan
+<ol>
+  <li>Business Planning
+  <ol>
+    <li>Territory Plan
     Webinar / Campaign Schedule
       Creation / Reuse of Assets
     Partner Coverage
       Enablement Activities
-..1.2 Account Plan (link)
+    <li>Account Plan (link)
     Visit Frequency
     Technical Environment
     License Usage
@@ -16,9 +18,10 @@ permalink: /process1/
     Sphere of Influence
     Customer Success Issues
     Targeted Marketing Plan (link)
-..1.3 Marketing Plan
+    <li>Marketing Plan
     Resource Plan
-2. Engagement
+  </ol>
+  <li<>Engagement
   Direct Sales
     Request
     Qualification
@@ -68,15 +71,15 @@ permalink: /process1/
   Professional Services
     Positioning
     Handover (link)
-3. Innovation (link)
-4. Reporting (link)
+  <li>Innovation (link)
+  <li>Reporting (link)
   Score Card
   Finance
   Workforce
     Hires and Leavers
     Anniversaries
     Recruitment
-5. Governance (link)
+  <li>Governance (link)
   1:1
   Staff Meetings
   Team Calls
@@ -84,6 +87,7 @@ permalink: /process1/
   Newsletters
   Kickoff
   Meeting Schedule
-6. Asset Creation and Sharing (link)
-7. Cost Management
+  <li>Asset Creation and Sharing (link)
+  <li>Cost Management
   Forecast
+</ol>
