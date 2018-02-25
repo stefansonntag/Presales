@@ -6,20 +6,24 @@ permalink: /process1/
   <li>Business Planning
   <ol>
     <li>Territory Plan
-    Webinar / Campaign Schedule
-      Creation / Reuse of Assets
-    Partner Coverage
-      Enablement Activities
+      <ul>
+        <li> Webinar / Campaign Schedule
+          <ul><li>Creation / Reuse of Assets</li></ul>
+        <li>Partner Coverage
+        <ul><li>Enablement Activities</li></ul>
+      </ul>
     <li>Account Plan (link)
-    Visit Frequency
-    Technical Environment
-    License Usage
-    Competition
-    Sphere of Influence
-    Customer Success Issues
-    Targeted Marketing Plan (link)
+      <ul>
+        <li>Visit Frequency
+        <li>Technical Environment
+        <li>License Usage
+        <li>Competition
+        <li>Sphere of Influence
+        <li>Customer Success Issues
+        <li>Targeted Marketing Plan (link)
+      </ul>
     <li>Marketing Plan
-    Resource Plan
+      <ul><li>Resource Plan</li></ul>
   </ol>
   <li<>Engagement
   Direct Sales
