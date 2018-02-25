@@ -10,7 +10,7 @@ permalink: /process1/
         <li> Webinar / Campaign Schedule
           <ul><li>Creation / Reuse of Assets</li></ul>
         <li>Partner Coverage
-        <ul><li>Enablement Activities</li></ul>
+        <ul><li>Enablement Activities</li>
       </ol>
     <li>Account Plan (link)
       <ul>
