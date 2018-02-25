@@ -1,6 +1,7 @@
 ---
 title: "What is Presales?"
 permalink: /presales/
+share: true
 toc: true
 toc_label: "Table of Content"
 ---
